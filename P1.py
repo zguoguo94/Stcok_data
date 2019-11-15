@@ -1,3 +1,6 @@
+#reference: https://aroussi.com/post/python-yahoo-finance
+#This python codes generate 1m stock data from 15 selected popular firms
+
 import yfinance as yf
 from datetime import datetime, date, time, timedelta
 
